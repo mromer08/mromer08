@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Manu</h1>
 <h3 align="center">A passionate backend developer from Guatemala</h3>
 
-- 🌱 I’m currently learning **javascript and react in CoreCode Bootcamp**
+- 🌱 I’m currently learning **javascript and react in CoreCode Bootcamp 💜 & Platzi 💚**
 
 - 💬 Ask me about **Java, MySQL, MariaDB, Bootstrap**
 
